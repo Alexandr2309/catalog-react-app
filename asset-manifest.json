@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/catalog-react-app/static/css/main.ad3af935.css",
+    "main.js": "/catalog-react-app/static/js/main.370e59f9.js",
+    "static/media/empty-basket.png": "/catalog-react-app/static/media/empty-basket.90ca5c75b4d70f5918ac.png",
+    "index.html": "/catalog-react-app/index.html",
+    "main.ad3af935.css.map": "/catalog-react-app/static/css/main.ad3af935.css.map",
+    "main.370e59f9.js.map": "/catalog-react-app/static/js/main.370e59f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad3af935.css",
+    "static/js/main.370e59f9.js"
+  ]
+}
